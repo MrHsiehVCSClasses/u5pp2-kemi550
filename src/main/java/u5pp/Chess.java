@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Chess {
 
+    ChessPiece [][] board = new ChessPiece [8][8];
 
     /**
      * Used to print a chess board out.
@@ -51,5 +52,9 @@ public class Chess {
         return output;
         
     }
+    // ChessPiece [][] board = new ChessPiece [8][8];
+    // board[0][0] = new "piece" (-----);
 
+    //if (board [r][c].canMoveTo (goal r, goal c ))
+    ////board [r][c]/moveTo (goalr, goal c;)
 }

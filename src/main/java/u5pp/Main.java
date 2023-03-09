@@ -9,7 +9,8 @@ public class Main {
         System.out.println("Hello! :)\n" + 
         "Welcome to the unit 5 programming project!\n"+
         "Take a look at the README, and the txt files to start\n" + 
-        "Good luck!");
+        "Good luck!" +
+        "bro who even likes chess??? like can we just play checkers???");
 
     }
 }
